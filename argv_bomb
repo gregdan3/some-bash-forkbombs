@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+$0 | $0
+
+# pass argv[0] to itself, forever :)))
